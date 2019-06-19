@@ -1,6 +1,4 @@
-https://tiffolin.github.io/Design4/
-
-# Beige theme. Design 4
+# Beige theme (Design 4)
 ### Overview
 a one page scroll design with a beige theme. This webpage is mobile responsive.
 
