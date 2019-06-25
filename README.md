@@ -18,10 +18,12 @@ The page is a one page scroll.
 
 A logo can be added to the center of the dome if needed. 
 
-![](appScreenshots/1.PNG)      
-![](appScreenshots/3.PNG)      
+![](appScreenshots/1.PNG)   
+---
+![](appScreenshots/3.PNG)     
+---
 ![](appScreenshots/5.PNG) 
-
+---
 ![](appScreenshots/6.PNG) 
 
 
